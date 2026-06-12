@@ -1,5 +1,5 @@
 <!-- ============================ BANNER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2E9EF7&height=200&section=header&text=Raunak%20Regmi&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Aspiring%20AI%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2E9EF7&height=200&section=header&text=Raunak%20Regmi&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Aspiring%20AI%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Research%20Intern%20%E2%80%A2%20Trainer%20&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -20,9 +20,9 @@ class RaunakRegmi:
     def __init__(self):
         self.role      = "Aspiring AI Developer"
         self.education = "B.Sc. Artificial Intelligence @ Sunway College"
-        self.languages = ["Python", "Java"]
-        self.stack     = ["NumPy", "Pandas", "scikit-learn", "Jupyter"]
-        self.focus     = ["Deep Learning", "RAG", "Predictive Modeling"]
+        self.languages = ["Python", "Java", "C++"]
+        self.stack     = ["NumPy", "Pandas", "scikit-learn", "Jupyter", "PyTorch"]
+        self.focus     = ["Deep Learning", "RAG", "Predictive Modeling", "Machine Learning", "Data Science"]
         self.mindset   = "build → experiment → fail → build again"
 
     def current_status(self) -> str:
@@ -104,6 +104,26 @@ status:
   currently_learning: "transformers, attention, fine-tuning"
   open_to: ["collaborations", "research", "good conversations", "publications"]
 ```
+
+---
+
+## ` >_ ` cat publications.bib
+
+```
+📚 publications/
+ ├── 📄  2AI 2026         # LLM benchmarking for math assessment
+ ├── 📄  CHiPSAL 2026     # Nepali cultural commonsense benchmark
+ └── 📄  KEC 2026         # edge-deployed waste classification
+```
+
+**1. Human-in-the-Loop Benchmarking of Heterogeneous LLMs for Automated Competency Assessment in Secondary Level Mathematics**
+> Accepted at the **2026 International Conference on Applied Artificial Intelligence (2AI)** — Springer CCIS, Scopus Indexed.
+
+**2. NeCCo: Nepali Cultural Commonsense Benchmark for Large Language Model Evaluation**
+> Accepted for presentation at **CHiPSAL 2026** (Challenges and Perspectives of South Asian Languages), co-located with **LREC-COLING 2026**.
+
+**3. Edge-Deployed Waste Classification System Using Transfer Learning on Custom IoT Camera Data with Data Augmentation**
+> Accepted at **KEC Conference 2026**, [Kantipur Engineering College](https://www.linkedin.com/company/kantipur-engg-college/).
 
 ---
 
