@@ -1,8 +1,6 @@
 <!-- ============================ BANNER ============================ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2E9EF7&height=200&section=header&text=Raunak%20Regmi&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Aspiring%20AI%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Research%20Intern%20%E2%80%A2%20Trainer%20&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-<div align="center">
-
 ```ansi
 [36m> initializing developer profile...[0m  [32m[ OK ][0m
 ```
@@ -20,9 +18,9 @@ class RaunakRegmi:
     def __init__(self):
         self.role      = "Aspiring AI Developer"
         self.education = "B.Sc. Artificial Intelligence @ Sunway College"
-        self.languages = ["Python", "Java", "C++"]
+        self.languages = ["Python", "Java", "C", "C++"]
         self.stack     = ["NumPy", "Pandas", "scikit-learn", "Jupyter", "PyTorch"]
-        self.focus     = ["Deep Learning", "RAG", "Predictive Modeling", "Machine Learning", "Data Science"]
+        self.focus     = ["Deep Learning", "RAG", "Predictive Modeling", "Machine Learning", "Stochastic Calculus", "Probability", "Market Modeling"]
         self.mindset   = "build → experiment → fail → build again"
 
     def current_status(self) -> str:
@@ -42,10 +40,10 @@ class RaunakRegmi:
 ─────────────────────────
 OS........ macOS · Curiosity
 Shell..... zsh · python3 · javac
-Editor.... VS Code · Jupyter
-Domain.... AI / ML / Research
-Lib....... NumPy · Pandas
-Now....... Deep Learning + RAG
+Editor.... VS Code · Jupyter · PyCharm CE
+Domain.... AI / ML / Research / Quant
+Lib....... NumPy · Pandas· scikit-learn
+Now....... Deep Learning + RAG + Mathematics 
 Uptime.... always learning
 ```
 
@@ -101,7 +99,8 @@ Uptime.... always learning
 ```yaml
 status:
   currently_building: "a RAG pipeline that actually cites its sources"
-  currently_learning: "transformers, attention, fine-tuning"
+  currently_learning: "transformers, attention, fine-tuning, quant finance (stochastic calculus, probability, market modeling)"
+  next_goal: "breaking into quantitative research / development"
   open_to: ["collaborations", "research", "good conversations", "publications"]
 ```
 
