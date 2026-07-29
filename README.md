@@ -1,6 +1,14 @@
 <!-- ============================ BANNER ============================ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2E9EF7&height=200&section=header&text=Raunak%20Regmi&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Aspiring%20AI%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Research%20Intern%20%E2%80%A2%20Trainer%20&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="ascii-me-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="ascii-me-light.svg">
+  <img src="ascii-me-dark.svg" alt="Raunak Regmi" width="740">
+</picture>
+
 ```ansi
 [36m> initializing developer profile...[0m  [32m[ OK ][0m
 ```
