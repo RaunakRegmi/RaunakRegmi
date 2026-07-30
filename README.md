@@ -4,9 +4,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="ascii-me-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="ascii-me-light.svg">
-  <img src="ascii-me-dark.svg" alt="Raunak Regmi" width="740">
+  <source media="(prefers-color-scheme: dark)" srcset="ascii-me-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="ascii-me-light-v2.svg">
+  <img src="ascii-me-dark-v2.svg" alt="Raunak Regmi" width="740">
 </picture>
 
 ```ansi
@@ -98,9 +98,8 @@ Uptime.... always learning
  ├── 🔎  rag-systems/             # retrieval-augmented generation
  ├── 📈  ml-on-real-data/         # applied ML on real-world datasets
  ├── 🧮  algorithms-from-scratch/ # DSA implementations
- └── 🔬  research-projects/       # theory ↔ practical experiments
  ├── ♾️  learning-mathematics/    # applied mathematics (probability, stats, linear algebra)
-
+ └── 🔬  research-projects/       # theory ↔ practical experiments
 
 ```
 
